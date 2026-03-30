@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 User Directory Application (Advanced)
 
 A scalable and production-ready Flutter application demonstrating clean architecture, robust state management, API integration, and offline-first design.
@@ -99,3 +100,7 @@ Dart SDK
 👨‍💻 Author
 
 Aman Chaudhary
+=======
+# AviaraAssignment
+AviaraAssignment
+>>>>>>> 57338651aa19ca1a53469fcfbda7ea28e5a37297
